@@ -1,5 +1,5 @@
 includes:
-	- vendor/phpstan/phpstan-webmozart-assert/extension.neon
+	- vendor/phpstan/phpstan-beberlei-assert/extension.neon
 
 parameters:
     level: 3
